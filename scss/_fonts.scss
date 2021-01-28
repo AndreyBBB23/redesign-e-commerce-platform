@@ -1,0 +1,27 @@
+@font-face{
+  font-family: 'Lora';
+  src: local('Lora-Medium'), local('Lora Medium'), url('../fonts/Lora/Lora-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face{
+  font-family: 'Lora';
+  src: local('Lora-Bold'), local('Lora Bold'), url('../fonts/Lora/Lora-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face{
+  font-family: 'Futura PT';
+  src: local('Futura-PT-Medium'), local('Futura PT Medium'), url('../fonts/Futura-PT/futura-pt-medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face{
+  font-family: 'Futura PT Book';
+  src: local('Futura-PT-Book'), local('Futura PT Book'), url('../fonts/Futura-PT/futura-pt-book.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
